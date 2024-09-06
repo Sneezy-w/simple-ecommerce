@@ -1,6 +1,6 @@
 const { useState, useEffect } = React;
 const { Account, Databases, Query, ID, Client, Storage, OAuthProvider } = Appwrite;
-
+ 
 const config = {
     endpoint: 'https://cloud.appwrite.io/v1',
     project: '66db218f0038886a23ee',
